@@ -10,7 +10,7 @@ bokeh==0.12.14
 WTForms==2.1
 Flask-WTF==0.14.2
 pandas==0.20.3
-untangle==1.1.1
+untangle==1.2.1
 # Flask Packages
 Flask-Login==0.4.0
 Flask-Migrate==2.0.2
