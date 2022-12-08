@@ -6,7 +6,7 @@ backports.ssl-match-hostname==3.5.0.1
 bcrypt==3.1.4
 blinker==1.4
 bokeh==0.12.14
-certifi==2018.1.18
+certifi==2022.12.7
 cffi==1.11.5
 click==6.7
 cryptography==2.2.2
